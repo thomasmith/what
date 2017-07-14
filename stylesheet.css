@@ -1,0 +1,30 @@
+body{
+        text-align: center;
+        background: url("");
+        background-size: 10% 880px;
+        background-repeat: no-repeat;
+        padding-top: 40px;
+        
+    }
+    header{
+        text-align: center;
+    }
+    li {
+    display: inline;
+    padding: 9px 60px 9px 69px;
+    }
+    ul{
+    background: black;
+    padding: 5px;
+    }
+    a{
+    color: white;
+    }
+    img src{
+        
+    }
+    div class="item active" {
+      display: center; 
+    }
+    
+    
